@@ -1,2 +1,0 @@
-***PHP-Learn V0.0.1***
-✔ Открытие категорий: Expressions, Operators, Variables и Сonstants.
