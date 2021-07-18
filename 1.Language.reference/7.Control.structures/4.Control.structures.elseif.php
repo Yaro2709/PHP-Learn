@@ -1,4 +1,5 @@
 <?php
+//elseif/else if
 //Общее
 $a = 500;
 $b = 1000;
